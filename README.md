@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/AkashGodase/Shopping-Mart.git
+git clone https://github.com/ShwetaJadhav/Shopping-Mart.git
 Navigate to the project directory:
 
 bash
